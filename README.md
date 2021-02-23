@@ -1,1 +1,3 @@
 # git-zadanie1
+
+:)
